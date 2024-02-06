@@ -14,8 +14,3 @@
 
 ## 🏆 Troféus no GitHub
 ![](https://github-profile-trophy.vercel.app/?username=SkylineProgrammer&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=SkylineProgrammer&icon=8&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
