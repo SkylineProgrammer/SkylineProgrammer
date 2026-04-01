@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🔭 A procura de oportunidades como Desenvolvedor Back-End Junior<br>👯  Atualmente Reforçando estudos em Java/C#<br>🤝 Ex Proane do Instituto Proa. Formado em Tecnologia em Jogos Digitais<br>🌱 Focando meu aprendizado na integração do back-end em um projeto Fullstack<br>💬 Vamos trocar conhecimento? Estou sempre disposto a aprender novas ferramentas e metodologias ágeis de estudo e desempenho<br>⚡ Uma curiosidade sobre mim: Eu sempre tive o interesse de saber o que está por trás do funcionamento de uma aplicação e aprender mais sobre isso
+🔭 A procura de oportunidades como Desenvolvedor Back-End Junior<br>👯  Atualmente Reforçando estudos em Java/C#<br>🤝 Ex Proane do Instituto Proa. Formado em Tecnologia em Jogos Digitais. Cursando Ciências da Computação<br>🌱 Focando meu aprendizado na integração do back-end em um projeto Fullstack<br>💬 Vamos trocar conhecimento? Estou sempre disposto a aprender novas ferramentas e metodologias ágeis de estudo e desempenho<br>⚡ Uma curiosidade sobre mim: Eu sempre tive o interesse de saber o que está por trás do funcionamento de uma aplicação e aprender mais sobre isso
 
 
 ## 🌐 Redes Sociais:
